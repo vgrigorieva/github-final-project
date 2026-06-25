@@ -1,0 +1,4 @@
+theia@theia-grigorievave:/home/project/github-final-project$ git branch -vv
+* bug-fix-revert 81b2ae3 Revert typo in Readme file
+  bug-fix-typo   22f0cf8 Fixed typo in Readme file
+  main           22f0cf8 [origin/main: ahead 1] Fixed typo in Readme file
